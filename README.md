@@ -116,7 +116,7 @@ crypto-weather-nexus/
 
 ## 🌐 Deployment
 
-The application is deployed on Vercel at [https://crypto-weather-nexus.vercel.app](https://crypto-weather-nexus.vercel.app)
+The application is deployed on Vercel at [https://crypto-weather-nexus-rho.vercel.app/](https://crypto-weather-nexus-rho.vercel.app/)
 
 ## 🚧 Challenges and Solutions
 
